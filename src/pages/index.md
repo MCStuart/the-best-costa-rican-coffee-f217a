@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: The Best Costa Rican Coffee
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### The no. 1 rated Central Valley bean of 2021
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
