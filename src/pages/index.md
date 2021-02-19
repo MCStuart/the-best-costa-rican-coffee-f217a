@@ -6,7 +6,7 @@ sections:
     title: The Best Costa Rican Coffee
     subtitle: |
       ### The no. 1 rated Central Valley bean of 2021
-    image: images/avatar.png
+    image: images/20210205_083107.jpg
     image_alt: Author avatar
   - title: Text
     section_id: intro
