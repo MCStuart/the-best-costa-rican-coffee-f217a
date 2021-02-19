@@ -17,11 +17,6 @@ sections:
 
 
       Family owned and operated for over 40 years.
-  - title: Recent Posts
-    section_id: posts
-    type: section_posts
-    has_more_link: true
-    more_link_text: Read more
   - title: A Cat
     section_id: cat
     type: section_content
