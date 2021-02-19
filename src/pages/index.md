@@ -18,7 +18,7 @@ sections:
     type: section_content
     image: images/enthusiastic-sloth.jpg
     image_alt: Geometric pattern
-    content: >
+    content: >+
       #### About
 
 
@@ -29,6 +29,13 @@ sections:
       visit annually and we are proud of producing traditional Costa Rican
       roasting processes to accentuate the flavors of the Valle Occidental
       region.
+
+
+
+
+      A farm to table coffee outfit, where the family farm knows the same seller
+      you know.
+
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
