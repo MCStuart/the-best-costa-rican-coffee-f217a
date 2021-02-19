@@ -4,8 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: The Best Costa Rican Coffee
-    subtitle: |
-      ###
+    subtitle: >
+      ## A farm to table coffee outfit, where the family farm knows the same
+      seller you know.
     image: images/20191118_190559.jpg
     image_alt: Author avatar
   - title: Text
