@@ -13,7 +13,7 @@ sections:
     section_id: intro
     type: section_content
     content: |
-      #### Family owned and operated for over 40 years.
+      ####
   - title: A Cat
     section_id: cat
     type: section_content
