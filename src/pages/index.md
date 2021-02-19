@@ -20,7 +20,7 @@ sections:
   - title: A Cat
     section_id: cat
     type: section_content
-    image: images/art.svg
+    image: images/20210205_083107.jpg
     image_alt: Geometric pattern
     content: >
       #### About
