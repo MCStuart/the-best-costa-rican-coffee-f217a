@@ -18,7 +18,7 @@ sections:
     type: section_content
     image: images/enthusiastic-sloth.jpg
     image_alt: Geometric pattern
-    content: >+
+    content: >
       #### About
 
 
@@ -31,11 +31,7 @@ sections:
       region.
 
 
-
-
-      A farm to table coffee outfit, where the family farm knows the same seller
-      you know.
-
+      The no. 1 rated Valle Occidental bean of 2021
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
