@@ -22,25 +22,17 @@ sections:
     type: section_content
     image: images/art.svg
     image_alt: Geometric pattern
-    content: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo. 
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
+    content: >
+      #### About
 
 
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+      Perched on the mountains of San Ramon, Alajuela, Balboa, Santiago.  A
+      proud family company of the Vargas Jimenez family of more than 40 years.
+      We trade directly with this family.  Working on the farm for 9 months +,
+      harvesting and planting , gave me a great appreciation of the process.  We
+      visit annually and we are proud of producing traditional Costa Rican
+      roasting processes to accentuate the flavors of the Valle Occidental
+      region.
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
