@@ -26,6 +26,7 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/enthusiastic-sloth.jpg
   - title: Contact
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
