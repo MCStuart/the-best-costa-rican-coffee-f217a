@@ -14,7 +14,7 @@ sections:
   - title: About
     section_id: about
     has_more_link: false
-    more_link_text: lorem-ipsum
+    more_link_text: about
     type: section_posts
   - title: Contact
     section_id: lorem-ipsum
