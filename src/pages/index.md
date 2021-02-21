@@ -11,11 +11,6 @@ sections:
       seller you know.
     image: images/packageTOSIZE5.png
     image_alt: Author avatar
-  - title: Text
-    section_id: intro
-    type: section_content
-    content: |
-      ####  
   - title: Contact
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
