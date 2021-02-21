@@ -53,7 +53,7 @@ sections:
 
       Email: tbcrc78@gmail.com
     type: section_content
-  - title: lorem-ipsum
+  - title: More
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
