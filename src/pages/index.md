@@ -11,6 +11,11 @@ sections:
       seller you know.
     image: images/packageTOSIZE5.png
     image_alt: Author avatar
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    has_more_link: true
+    more_link_text: lorem-ipsum
+    type: section_posts
   - title: Contact
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -27,11 +32,6 @@ sections:
 
       Email: tbcrc78@gmail.com
     type: section_content
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    has_more_link: true
-    more_link_text: lorem-ipsum
-    type: section_posts
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
