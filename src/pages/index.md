@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: The Best Costa Rican Coffee
     subtitle: >
-      ## A farm to table coffee outfit, where the family farm knows the same
+      ## A farm to table coffee outfit, where the family run farm knows the same
       seller you know.
     image: images/20191118_190559.jpg
     image_alt: Author avatar
