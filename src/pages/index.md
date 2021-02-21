@@ -44,17 +44,18 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Contact
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      If you would like to know more about our process or try some our beans,
+      please feel free to reach out to us. We'd love to talk to you.
 
 
-      - Lorem ipsum
+      Phone: (503) 956-0893
 
-      - dolor sit amet
+
+      Email: tbcrc78@gmail.com
     type: section_content
 seo:
   title: Stackbit Vanilla Theme
