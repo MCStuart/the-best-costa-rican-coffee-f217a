@@ -16,7 +16,7 @@ sections:
     type: section_content
     content: |
       ####  
-  - title: Check
+  - title: Contact
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
