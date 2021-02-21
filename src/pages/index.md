@@ -68,6 +68,7 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/20191112_185826.jpg
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
