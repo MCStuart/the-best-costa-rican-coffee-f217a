@@ -12,7 +12,7 @@ sections:
     image: images/packageTOSIZE5.png
     image_alt: Author avatar
   - title: About
-    section_id: lorem-ipsum
+    section_id: about
     has_more_link: true
     more_link_text: lorem-ipsum
     type: section_posts
