@@ -13,7 +13,7 @@ sections:
     image_alt: Author avatar
   - title: About
     section_id: about
-    image_alt: lorem-ipsum
+    image_alt: 'The farmer, '
     content: >-
       ## Lorem ipsum
 
