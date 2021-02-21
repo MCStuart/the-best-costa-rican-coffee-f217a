@@ -56,17 +56,25 @@ sections:
   - title: More
     section_id: more
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## This is my Costa Rican Family.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      My name is Greg, and I'm the guy sitting in the middle. As you can see,
+      the place that my coffee comes from is more than just a farm. They are my
+      friends and family and I am proud to offer you the best coffee I know of. 
 
-      - dolor sit amet
+
+
+
+      Enjoy a perfectly balanced, clean cup, with strong stone fruit and toasted
+      nut flavors. Presenting all of the classic flavor profiles of the Valle
+      Occidential, look forward to a light but strong blend of aromas and
+      flavors, without any of the muddy and bland flavors of your pre-ground
+      store brand coffee. Treat yourself to The Best Costa Rican Coffee I know,
+      and joing the family. 
     type: section_content
     image: images/20191112_185826.jpg
 seo:
