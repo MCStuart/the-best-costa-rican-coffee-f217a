@@ -7,7 +7,7 @@ sections:
     subtitle: >
       ## A farm to table coffee outfit, where the family run farm knows the same
       seller you know.
-    image: images/20191118_190559.jpg
+    image: images/packageTOSIZE5.jpg
     image_alt: Author avatar
   - title: Text
     section_id: intro
