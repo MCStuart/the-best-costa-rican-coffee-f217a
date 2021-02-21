@@ -12,7 +12,7 @@ sections:
     image: images/packageTOSIZE5.png
     image_alt: Author avatar
   - title: About
-    section_id: lorem-ipsum
+    section_id: about
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
