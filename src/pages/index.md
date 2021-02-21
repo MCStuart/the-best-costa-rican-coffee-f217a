@@ -14,17 +14,27 @@ sections:
   - title: About
     section_id: about
     image_alt: 'The farmer, Enrique Vargas'
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ### About
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      Perched on the mountains of San Ramon, Alajuela, Balboa, Santiago. A proud
+      family company of the Vargas Jimenez family of more than 40 years. We
+      trade directly with this family. Working on the farm for 9 months +,
+      harvesting and planting , gave me a great appreciation of the process. We
+      visit annually and we are proud of producing traditional Costa Rican
+      roasting processes to accentuate the flavors of the Valle Occidental
+      region.
 
 
-      - Lorem ipsum
+      Organic growing practices are used on this family owned and operated farm
+      to ensure the best cup of coffee possible. Fair Trade cultivated and
+      harvested, when you drink this cup of coffee, know that you are often less
+      than 2 degrees of seperation away from the hands that grew the beans.
 
-      - dolor sit amet
+
+      Say hello to Enrique Vargas.
     type: section_content
     image: images/enthusiastic-sloth.jpg
   - title: Contact
