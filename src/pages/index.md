@@ -11,6 +11,21 @@ sections:
       seller you know.
     image: images/packageTOSIZE5.png
     image_alt: Author avatar
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
   - title: Contact
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -26,21 +41,6 @@ sections:
 
 
       Email: tbcrc78@gmail.com
-    type: section_content
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     type: section_content
 seo:
   title: Stackbit Vanilla Theme
