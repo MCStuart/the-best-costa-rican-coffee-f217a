@@ -13,7 +13,7 @@ sections:
     image_alt: Author avatar
   - title: About
     section_id: about
-    has_more_link: true
+    has_more_link: false
     more_link_text: lorem-ipsum
     type: section_posts
   - title: Contact
