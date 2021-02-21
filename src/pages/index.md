@@ -13,7 +13,7 @@ sections:
     image_alt: Author avatar
   - title: About
     section_id: about
-    image_alt: 'The farmer, '
+    image_alt: 'The farmer, Enrique Vargas'
     content: >-
       ## Lorem ipsum
 
