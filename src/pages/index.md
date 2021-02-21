@@ -32,15 +32,13 @@ sections:
       region.
 
 
-
-
       Organic growing practices are used on this family owned and operated farm
       to ensure the best cup of coffee possible. Fair Trade cultivated and
       harvested, when you drink this cup of coffee, know that you are often less
-      than 2 degrees of seperation away from the hands that grew the beans. 
+      than 2 degrees of seperation away from the hands that grew the beans.
 
 
-      Say hello to (Insert Farmer Name)
+      Say hello to Enrique Vargas.
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
