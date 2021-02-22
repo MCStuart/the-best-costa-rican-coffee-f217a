@@ -87,9 +87,6 @@ seo:
     - name: 'og:title'
       value: TBCRC- The Best Costa Rican Coffee
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Vanilla theme
-      keyName: property
     - name: 'og:image'
       value: /images/clever-tomato.png
       keyName: property
