@@ -18,7 +18,6 @@ sections:
       ### About
 
 
-
       Perched on the mountains of San Ramon, Alajuela, Balboa, Santiago. A proud
       family company of the Vargas Jimenez family of more than 40 years. We
       trade directly with this family. Working on the farm for 9 months +,
