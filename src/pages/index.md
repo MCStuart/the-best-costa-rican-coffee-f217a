@@ -98,7 +98,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Vanilla theme
     - name: 'twitter:image'
-      value: images/vanilla-preview.png
+      value: /images/wonderful-pineapple.png
       relativeUrl: true
 template: advanced
 ---
