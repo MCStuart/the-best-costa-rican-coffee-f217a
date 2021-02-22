@@ -38,7 +38,7 @@ sections:
     image: images/enthusiastic-sloth.jpg
   - title: Contact
     section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+    image_alt: Cafe Chorreador
     content: >
       ## Contact
 
