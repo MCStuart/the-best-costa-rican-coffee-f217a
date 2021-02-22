@@ -13,6 +13,7 @@ export default class SectionContent extends React.Component {
                     {markdownify(_.get(section, 'content', null))}
                 </div>
                 )}
+                {_.get(section, 'image', null) && (<img className="inline-image" src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />)}
             </section>
         );
     }
