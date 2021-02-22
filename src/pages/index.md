@@ -52,6 +52,7 @@ sections:
 
       Email: tbcrc78@gmail.com
     type: section_content
+    image: images/Cafe Chorreador.jpg
   - title: More
     section_id: more
     image_alt: lorem-ipsum
