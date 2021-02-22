@@ -79,7 +79,7 @@ sections:
     image: images/20191112_185826.jpg
 seo:
   title: TBCRC
-  description: The preview of the Vanilla theme
+  description: The Best Costa Rican Coffee (TBCRC)
   extra:
     - name: 'og:type'
       value: website
