@@ -60,13 +60,9 @@ sections:
       ## This is my Costa Rican Family.
 
 
-
-
       My name is Greg, and I'm the guy sitting in the middle. As you can see,
       the place that my coffee comes from is more than just a farm. They are my
-      friends and family and I am proud to offer you the best coffee I know of. 
-
-
+      friends and family and I am proud to offer you the best coffee I know of.
 
 
       Enjoy a perfectly balanced, clean cup, with strong stone fruit and toasted
@@ -74,7 +70,7 @@ sections:
       Occidential, look forward to a light but strong blend of aromas and
       flavors, without any of the muddy and bland flavors of your pre-ground
       store brand coffee. Treat yourself to The Best Costa Rican Coffee I know,
-      and joing the family. 
+      and joining the family.
     type: section_content
     image: images/20191112_185826.jpg
 seo:
