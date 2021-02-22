@@ -78,7 +78,7 @@ sections:
     type: section_content
     image: images/20191112_185826.jpg
 seo:
-  title: Stackbit Vanilla Theme
+  title: TBCRC
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
