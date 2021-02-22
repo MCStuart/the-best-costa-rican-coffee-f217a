@@ -85,7 +85,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: TBCRC- The Best Costa Rican Coffee
+      value: The Best Costa Rican Coffee (TBCRC)
       keyName: property
     - name: 'og:image'
       value: /images/clever-tomato.png
