@@ -95,8 +95,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: The Best Costa Rican Coffee (TBCRC)
-    - name: 'twitter:description'
-      value: The preview of the Vanilla theme
     - name: 'twitter:image'
       value: /images/wonderful-pineapple.png
       relativeUrl: true
